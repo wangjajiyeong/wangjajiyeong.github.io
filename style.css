@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Ramche';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-1@1.1/Ramche.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+h1 {
+    color: #001aff;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 19px;
+    border-style: dotted;
+    border-width: 9px;
+    border-color: blueviolet;    
+    border-radius: 19px;
+    font-size: 49px;
+    box-shadow: 9px 9px 19px #a8a8a8;
+}
+
+h1 ::first-letter {
+    font-size: 49px;
+    text-align: right;
+}
+
+/* 
+h1 ::first-letter {
+    font-size: 499px;
+}
+*/ 
+
+p {
+    text-indent: 39px;
+    line-height: 200%;
+    
+}
+
+
+
+
+
+
+
+
